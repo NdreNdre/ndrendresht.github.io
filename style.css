@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #fac5c1;
+}
+
+.about h2 {
+  color: white;
+}
+.about p {
+  color: white;
+}
+.gallery {
+  background-color: #fac5c1;
+}
+.contact h2 {
+  color: white;
+}
+.contact label {
+  color: white;
+}
+section {
+  padding-top: 5rem;
+}
